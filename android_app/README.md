@@ -1,4 +1,6 @@
-This is an Android Studio Trust for youth and child Leadership
+This is an Android Source for Trust for youth and child Leadership app.
+
+Implemented at paypal hackathon.
 
 
 
